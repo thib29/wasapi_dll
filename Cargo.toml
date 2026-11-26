@@ -1,0 +1,9 @@
+[package]
+name = "wasapi-exclusive-v3"
+version = "3.0.0"
+edition = "2021"
+
+[lib]
+name = "wasapi_exclusive_v3"
+path = "wasapi_exclusive_v3.rs"
+crate-type = ["cdylib"]
