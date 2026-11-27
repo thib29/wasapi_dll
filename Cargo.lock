@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "wasapi-exclusive-v3"
-version = "3.0.0"
+name = "wasapi-exclusive-v4"
+version = "4.0.0"
